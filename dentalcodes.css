@@ -1,0 +1,73 @@
+html, body {
+    overflow-x: hidden;
+}
+.label 
+{ 
+	font-family: 'Lato', sans-serif;
+	float:left; 
+	width:210px; 
+	text-align:right; 
+	clear:left; 
+	margin-right:5px;
+}
+#submit { 
+	margin-left:215px;
+	background-color: #1984f1;
+	padding: 10px 20px;
+	color: white;
+	border-style: none;
+	border: collapse;
+}
+#submit:hover{
+
+	background-color: #4197ee;
+}
+.form{
+
+    position: absolute;
+	margin-left: 27%;
+	margin-top: 150px;
+}
+.log{
+	margin-right: 30px;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 1em;
+	color:black;
+}
+.log:hover{
+	text-decoration: underline;
+}
+.logotext{
+	position: absolute;
+	top: 4px;
+	margin-left: 58px;
+	font-family: 'Lato', sans-serif;
+	color: black;
+}
+.top{
+	
+	margin-left: 17px;
+}
+.title{
+	font-family: 'Lato', sans-serif;
+	position: absolute;
+	right: 40%;
+	top: 90px;
+}
+.wrap{
+	z-index: -100;
+	background-color: #b3d3f3;
+	padding: 20px 0px 100px 0px;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+.outer{
+	position: absolute;
+	top: 60px;
+	left: -10px;
+	right: -10px;
+}
+.error{
+	font-family: 'Lato', sans-serif
+}

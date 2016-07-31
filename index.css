@@ -1,0 +1,52 @@
+.midimg{
+	position: absolute;
+	top: 70px;
+	left: 30px;
+
+}
+.register{
+	position: absolute;
+	right: 10px;
+	top:26px;
+
+}
+.log{
+	margin-right: 30px;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 1em;
+	color:black;
+}
+.log:hover{
+	text-decoration: underline;
+}
+.link{
+	position: absolute;
+	bottom: 80px;
+	left: 70px;
+
+}
+.sublink{
+	margin-left: 190px;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.2em;
+    background-color: #1984f1;
+    padding: 10px 19px;
+    color: white;	
+}
+.sublink:hover{
+	text-decoration: none;
+	background-color: #4197ee;
+}
+.logotext{
+	position: absolute;
+	top: 4px;
+	margin-left: 48px;
+	font-family: 'Lato', sans-serif;
+	color: black;
+}
+.top{
+	
+	margin-left: 17px;
+}

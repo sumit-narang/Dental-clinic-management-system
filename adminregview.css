@@ -1,0 +1,69 @@
+
+.logo{
+	position: absolute;
+	margin-left: 20px;
+	font-family: 'Roboto', sans-serif;
+    font-size: 0.8em;
+    top: 20px;
+}
+.logotext{
+	position: absolute;
+	margin-left: 65px;
+	top: 20px;
+	font-family: 'Roboto', sans-serif;
+    font-size: 0.8em;
+    color: black;
+}
+.logotext:visited{
+	color: black;
+}
+.logotext:hover{
+	color: black;
+}
+.col{
+	font-family: 'Lato', sans-serif;
+	padding-right:80px; 
+	
+	
+}
+.head{
+	color: #1984f1;
+	font-family: 'Lato', sans-serif;
+
+}
+.heading{
+	color: black;
+	border-bottom: 2px solid #1984f1;
+}
+table {
+    /* make the border continuous (without gaps between columns) */
+    border-collapse: collapse;
+    margin-left: 34%;
+    margin-top: 160px;
+}
+.heading2{
+	border-bottom:1px solid black;
+}
+.page{
+	position: absolute;
+	top: 70px;
+	margin-left: 36%;
+	color: black;
+	font-family: 'Lato', sans-serif;
+}
+td{
+	padding: 10px;
+}
+.last{
+	color: #1984f1;
+	font-family: 'Lato', sans-serif;
+}
+.last1{
+	font-family: 'Lato', sans-serif;
+}
+.und{
+	text-decoration: none;
+}
+.und:hover{
+	text-decoration: underline;
+}

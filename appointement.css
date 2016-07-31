@@ -1,0 +1,49 @@
+.logo{
+	position: absolute;
+	margin-left: 20px;
+	font-family: 'Roboto', sans-serif;
+    font-size: 0.8em;
+    top: 20px;
+}
+.logotext{
+	position: absolute;
+	margin-left: 65px;
+	top: 20px;
+	font-family: 'Roboto', sans-serif;
+    font-size: 0.8em;
+    color: black;
+}
+.logotext:visited{
+	color: black;
+}
+.logotext:hover{
+	color: black;
+}
+.form{
+	position: absolute;
+	font-family: 'Lato', sans-serif;
+	margin-top: 50px;
+	margin-left: 8%;
+	
+	padding: 160px 400px;
+}
+#submit{
+
+	
+	background-color: #1984f1;
+	padding: 10px 20px;
+	color: white;
+	border-style: none;
+	border: collapse;
+}
+#submit:hover{
+
+	background-color: #4197ee;
+}
+.page{
+	position: absolute;
+	top: 85px;
+	margin-left: 39%;
+	color: black;
+	font-family: 'Lato', sans-serif;
+}

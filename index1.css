@@ -1,0 +1,69 @@
+.logotext{
+	position: absolute;
+	top: 4px;
+	margin-left: 48px;
+	font-family: 'Lato', sans-serif;
+	color: black;
+}
+
+.top{
+	
+	margin-left: 17px;
+}
+.image{
+	position: absolute;
+	left: 90px;
+	margin-top: 80px;
+}
+.link{
+	position: absolute;
+	margin-top: 200px;
+	background-color: #2b72e8;
+	font-family: 'Lato', sans-serif;
+	padding: 40px 30px;
+	right: 40px;
+	text-decoration: none;
+}
+.l1:hover,.l2:hover,.l3:hover,.l4:hover,.l5:hover{
+
+   background-color: #4197ee;
+}
+.sublink{
+	color: white;
+	text-decoration: none;
+	background-color: #2b72e8;
+	padding: 10px 20px;
+	width:100px;
+}
+.sublink:hover{
+	
+	background-color: #4197ee;
+}
+.l1{
+	padding:10px 108px 10px 20px; 
+}
+.l2{
+	padding:10px 68px 10px 20px; 
+}
+.l3{
+	padding:10px 34px 10px 20px; 
+}
+.l4{
+	padding:10px 30px 10px 20px; 
+}
+.l5{
+	padding:10px 26px 10px 20px; 
+}
+.logout{
+	position: absolute;
+	margin-top: -28px;
+	right: 40px;
+	font-family: 'Lato', sans-serif;
+	font-size: 1em;
+	text-decoration: none;
+	color: black;
+}
+.logout:hover{
+	color: blue;
+	text-decoration: underline;
+}
